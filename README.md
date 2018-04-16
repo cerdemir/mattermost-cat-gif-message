@@ -5,6 +5,8 @@ Prerequisites:
 jq  
 curl  
 
+Example:  
+`./sendmessage.sh Gunaydin millet`
 
 ```bash
 #!/bin/bash
